@@ -123,7 +123,7 @@ export default function Hero() {
                 {"\n"}
                 {"  "}
                 <Prop>experience</Prop>
-                <Punct>:</Punct> <Num>3.9</Num>
+                <Punct>:</Punct> <Num>4</Num>
                 <Punct>,</Punct>
                 {"\n"}
                 {"  "}

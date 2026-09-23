@@ -7,7 +7,7 @@ export const personalInfo = {
   resumeFilePdf: "/Ritik_Kumar_Singh_Resume.pdf",
   resumeFileDocx: "/Ritik_Kumar_Singh_Resume.docx",
   summary:
-    "Frontend Developer with 3 year 9 months of experience building scalable, high-performance web applications using React.js and Angular. Strong expertise in modern JavaScript (ES6+), REST APIs, and component-based architecture. Experienced in full-stack development (Node.js, MongoDB), CI/CD pipelines, and cloud services (AWS, GCP). Proven track record delivering enterprise AI/chat platforms, HR self-service systems, file management dashboards, and shared component libraries in Agile environments.",
+    "Frontend Developer with 4 years of experience building scalable, high-performance web applications using React.js and Angular. Strong expertise in modern JavaScript (ES6+), REST APIs, and component-based architecture. Experienced in full-stack development (Node.js, MongoDB), CI/CD pipelines, and cloud services (AWS, GCP). Proven track record delivering enterprise AI/chat platforms, HR self-service systems, file management dashboards, and shared component libraries in Agile environments.",
 };
 
 export const skillGroups: { label: string; skills: string[] }[] = [
@@ -232,7 +232,7 @@ export const languages: { name: string; level: string }[] = [
 ];
 
 export const stats: { label: string; value: string }[] = [
-  { label: "Years of Experience", value: "3.9+" },
+  { label: "Years of Experience", value: "4+" },
   { label: "Enterprise Projects", value: "4+" },
   { label: "Technologies", value: "40+" },
   { label: "UI Responsiveness Gain", value: "20%" },
